@@ -1,0 +1,8 @@
+{
+  "name": "spoon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6ea57b4c"
+}
